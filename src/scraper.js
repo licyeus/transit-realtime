@@ -45,4 +45,3 @@ export async function scrapeBusData () {
     console.error(err)
   }
 }
-scrapeBusData()
